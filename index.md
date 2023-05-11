@@ -2,7 +2,7 @@
 ## first day internship
 ### 8/05/2023
 **monday**
-.github
+> github
 .acc making in github
 .made .md file
 using of symbol
